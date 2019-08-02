@@ -1,4 +1,4 @@
-![Clippy! logo](https://github.com/cypheredout/microsoft-teams-clippy-app/blob/master/logo.png)
+![Clippy! logo](https://github.com/cypheredout/microsoft-teams-clippy-app/blob/master/Clippy%20Microsoft%20Teams.gif)
 
 # Clippy!
 
