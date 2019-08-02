@@ -4,7 +4,7 @@
 
 Clippy is an App for Microsoft Teams that you can deploy to your tenant to add a little fun to your messages!
 
-![Clippy! screenshot 1](https://raw.githubusercontent.com/OfficeDev/microsoft-teams-clippy-app/master/screenshot1.PNG)
+![Clippy! screenshot 1](https://raw.githubusercontent.com/cypheredout/microsoft-teams-clippy-app/blob/master/screenshot1.PNG)
 
 ![Clippy! screenshot 2](https://raw.githubusercontent.com/OfficeDev/microsoft-teams-clippy-app/master/screenshot2.PNG)
 
